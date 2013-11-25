@@ -38,10 +38,10 @@ anybody who wishes to learn about it.
 
 The required minimum skill level before participating will be as follows:
 
-* Has installed Linux or other UNIX variant
-* Is comfortable with, or even prefers, working on the command line
+* Has installed Linux or other UNIX variant.
+* Is comfortable with, or even prefers, working on the command line.
 * Has a basic understanding on navigating the filesystem, and the most basic
-  tools (ps, ls, top, etc).
+  tools (:command:`ps`, :command:`ls`, :command:`top`, etc).
 
 ***************
 Syllabus layout
